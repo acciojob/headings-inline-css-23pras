@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+h1 {
+  color: #2a7ae2; /* Heading 1: Blue */
+}
+
+h2 {
+  color: #f44336; /* Heading 2: Red */
+}
+
+h3 {
+  color: #4caf50; /* Heading 3: Green */
+}
+
+h4 {
+  color: #ff9800; /* Heading 4: Orange */
+}
+
+h5 {
+  color: #607d8b; /* Heading 5: Grayish Blue */
+}
+
+h6 {
+  color: #ffeb3b; /* Heading 6: Yellow */
+}
